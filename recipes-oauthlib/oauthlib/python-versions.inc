@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python-oauthlib = "3.1.0"

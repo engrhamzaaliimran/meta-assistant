@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python-setuptools = "41.5.0"

@@ -1,0 +1,5 @@
+PREFERRED_VERSION_python-requests = "2.22.0"
+PREFERRED_VERSION_python-chardet = "3.0.4"
+PREFERRED_VERSION_python-idna = "2.8"
+PREFERRED_VERSION_python-urllib3 = "1.25.6"
+PREFERRED_VERSION_python-certifi = "2019.9.11"
